@@ -1,0 +1,5 @@
+vispy
+jupyterlab
+notebook
+voila
+numpy
