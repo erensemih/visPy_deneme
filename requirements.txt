@@ -3,3 +3,5 @@ jupyterlab
 notebook
 voila
 numpy
+jupyterlab
+notebook
