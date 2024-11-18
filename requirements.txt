@@ -6,6 +6,5 @@ numpy
 jupyter-server
 pyopengl
 pyopengl-accelerate
-mesa-libgl-cos7-x86_64
 libegl1
 libgles2
