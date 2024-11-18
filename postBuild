@@ -1,4 +1,3 @@
 #!/bin/bash
 # Install any additional setup
-jupyter serverextension enable voila --sys-prefix
-
+jupyter server extension enable voila --sys-prefix
